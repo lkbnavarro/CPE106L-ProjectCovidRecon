@@ -124,12 +124,12 @@ Run the following commands to install Python.
 
 1. Actors
      * **Customer User** <br />
-     1.1 Customer is a user who works with the features of the program. The program consist of different tabs such as 'to look overall status of cases, deaths and recovered patients', view the cases in graph form, 'to view latest Department of Health news', and 'to look information about the developers redirecting to Github Repository'.
+        1.1 Customer is a user who works with the features of the program. The program consist of different tabs such as 'to look overall status of cases, deaths and recovered patients', view the cases in graph form, 'to view latest Department of Health news', and 'to look information about the developers redirecting to Github Repository'.
 
-     All of these aforementioned actions of use cases are all the features that the customer may access in the entire program.
+        All of these aforementioned actions of use cases are all the features that the customer may access in the entire program.
          
      * **Software Developer** <br />
-     1.2 The main role of a software developer is to identify, test and maintain the database where the sources come from and the future bugs that the customer user may experience from the application.
+        1.2 The main role of a software developer is to identify, test and maintain the database where the sources come from and the future bugs that the customer user may experience from the application.
 
         The developer gets data from the following sources such as Department Health Offical and trusted Twitter news accounts by using Tweepy webscraping. The developer is the one who will normalize data storing it to the database. These data will be the sole basis in the overall functionality of the tracker program.
         
